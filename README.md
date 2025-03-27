@@ -64,15 +64,23 @@ The average house price is calculated using df['price'].mean(), which provides a
 
 **Histogram**:
 The histogram for house prices shows how house prices are distributed. It can help identify if most houses fall into a specific price range or if there are any outliers.
+![Alt Text](https://github.com/garimarajpal/CSV-Data-Analysis/blob/main/distribution%20of%20house%20prices.png)
 
 **Scatter Plot**:
 The scatter plot between area (square footage) and price helps visualize the relationship between the size of the house and its price. A positive trend would suggest that larger houses tend to be more expensive.
+![Alt Text](https://github.com/garimarajpal/CSV-Data-Analysis/blob/main/price%20v%20area.png)
 
 **Box Plot**:
 The box plot for furnishingstatus shows the distribution of house prices for each furnishing category (furnished, semi-furnished, and unfurnished). This helps understand how furnishing status affects house price.
+![Alt Text](https://github.com/garimarajpal/CSV-Data-Analysis/blob/main/price%20distribution%20by%20furnishin%20status.png)
 
 **Correlation Heatmap**:
 The correlation heatmap visualizes how numerical features (like area, price, bedrooms, etc.) are correlated with each other. A high correlation between area and price would indicate that larger houses are priced higher.
+![Alt Text](https://github.com/garimarajpal/CSV-Data-Analysis/blob/main/correlation%20heatmap.png)
 
 **Bar Chart**:
 The bar chart visualizes the average house price based on the number of bedrooms. This can help assess how the number of bedrooms influences the price of a house.
+![Alt Text](https://github.com/garimarajpal/CSV-Data-Analysis/blob/main/avg%20price%20by%20no%20of%20bedroom.png)
+
+**Combined plot**
+![Alt Text](https://github.com/garimarajpal/CSV-Data-Analysis/blob/main/combined.png)
