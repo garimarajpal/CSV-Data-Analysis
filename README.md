@@ -28,9 +28,9 @@ To run the code, you need to have the following Python libraries installed:
 **Seaborn**: For creating statistical plots and heatmaps.
 
 You can install these dependencies using pip:
-'''
+```
 pip install pandas matplotlib seaborn
-'''
+```
 ## File Structure
 **house-price.csv**: This is the CSV file that contains the house price data. It should have columns such as price, area, furnishingstatus, bedrooms, etc.
 
